@@ -1,0 +1,60 @@
+# Query: Smart Resume AI
+# ContextLines: 1
+
+13 results - 4 files
+
+app.py:
+  1035                      Hello! I'm a passionate Full Stack Developer with expertise in AI and Machine Learning. 
+  1036:                     I created Smart Resume AI to revolutionize how job seekers approach their career journey. 
+  1037                      With my background in both software development and AI, I've designed this platform to 
+
+  1048                  <p class="vision-text">
+  1049:                     "Smart Resume AI represents my vision of democratizing career advancement through technology. 
+  1050                      By combining cutting-edge AI with intuitive design, this platform empowers job seekers at 
+
+  1432                  <h1>📣 Your Voice Matters!</h1>
+  1433:                 <p>Help us improve Smart Resume AI with your valuable feedback</p>
+  1434              </div>
+
+  1453          hero_section(
+  1454:             "Gamage Reqruiters",
+  1455              "Transform your career with AI-powered resume analysis and building. Get personalized insights and create professional resumes that stand out."
+
+  1498              st_lottie(self.load_lottie_url("https://assets5.lottiefiles.com/packages/lf20_xyadoh9h.json"), height=200, key="sidebar_animation")
+  1499:             st.title("Smart Resume AI")
+  1500              st.markdown("---")
+
+README.md:
+  121  
+  122: **🎉 Why Use Smart Resume AI?**  
+  123  Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
+
+  231  
+  232: Follow these steps to run Smart Resume AI:  
+  233  
+
+  410  
+  411: ## 🎯 **Why Choose Smart Resume AI?**  
+  412  
+
+  432  
+  433: ##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love Smart Resume AI**  
+  434  
+
+  617  
+  618: Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
+  619  
+
+feedback\feedback.py:
+  256                          <h2 style="color: #4CAF50;">Thank You! 🎉</h2>
+  257:                         <p style="color: #E0E0E0;">Your feedback helps us improve Smart Resume AI</p>
+  258                      </div>
+
+  564  #                     <h2 style="color: #4CAF50;">Thank You! 🎉</h2>
+  565: #                     <p style="color: #E0E0E0;">Your feedback helps us improve Smart Resume AI</p>
+  566  #                 </div>
+
+utils\__init__.py:
+  1  """
+  2: Utils package for Smart Resume AI
+  3  """
