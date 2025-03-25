@@ -1,6 +1,14 @@
 """
 Gamage Recruiters (Pvt) Ltd - Main Application
 """
+
+import os
+
+style_path = os.path.join(os.path.dirname(__file__), 'style', 'style.css')
+
+with open(style_path) as f:
+    css = f.read()
+    
 import streamlit as st
 import json
 import pandas as pd
